@@ -1,8 +1,3 @@
-# Knowledge Panel Strategy for Workcity
-
-## Goal
-Trigger or strengthen a Google Knowledge Panel for the Workcity brand by building clear entity signals across web, social, press and structured data.
-
 ## 1. Entity building steps
 - Publish a canonical About page with an H1 containing exact brand name and a concise verified description.
 - Create and maintain an authoritative "Team / Founder" page with bios, structured data (Person schema) and high-quality images.
