@@ -1,1 +1,24 @@
+## `organization.json`
+json
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Workcity",
+  "url": "https://www.workcityafrica.com",
+  "logo": "https://www.workcityafrica.com/wp-content/uploads/logo.png",
+  "sameAs": [
+    "https://www.linkedin.com/company/workcity",
+    "https://twitter.com/workcity",
+    "https://www.facebook.com/workcity"
+  ],
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "telephone": "+234-800-000-0000",
+      "contactType": "Customer Service",
+      "areaServed": "NG"
+    }
+  ],
+  "description": "Workcity - (short tagline here)."
+}
 
