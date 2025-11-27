@@ -1,5 +1,3 @@
-# Short Answers
-
 ## 1. Difference between Google Knowledge Graph and Google Knowledge Panel
 - Knowledge Graph is Google's internal database of entities and relationships (a knowledge base). It stores facts, relationships, and entity identifiers.
 - Knowledge Panel is the public SERP UI that surfaces curated entity information from the Knowledge Graph (the box on the right of desktop results or top on mobile). In short: Graph = database; Panel = the UI.
