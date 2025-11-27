@@ -1,5 +1,3 @@
-# SEO Diagnosis: Site not indexing after sitemap submission
-
 ## 1. Quick checks (first 10 minutes)
 - Confirm sitemap URL is added & submitted in Google Search Console (GSC).
 - Ensure sitemap returns HTTP 200 and is accessible (open in browser).
